@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">WillItFitment</string>
+    <string name="main_title">Will It Fitment!?</string>
+    <string name="btn_current_val">Current Values</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_how_to">How to use?</string>
+
+    <string name="name_dia">Wheel diameter</string>
+    <string name="name_width">Wheel width</string>
+    <string name="name_offset">Wheel offset (ET)</string>
+    <string name="name_tyre_width">Tyre width</string>
+    <string name="name_tyre_profile">Tyre profile</string>
+    <string name="name_spacer">Wheel spacer</string>
+    <string name="name_gap_y">Vertical gap</string>
+    <string name="name_gap_x">Horizontal gap</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_title">Will It Fitment!?</string>
+    <string name="btn_current_val">Текущие параметры</string>
+    <string name="btn_calculate">Расчет</string>
+    <string name="btn_how_to">Как пользоваться?</string>
+    <string name="name_dia">Диаметр диска</string>
+    <string name="name_width">Ширина диска</string>
+    <string name="name_offset">Вылет (ЕТ)</string>
+    <string name="name_tyre_width">Ширина шины</string>
+    <string name="name_tyre_profile">Высота профиля</string>
+    <string name="name_gap_y">Вертикальный зазор</string>
+    <string name="name_gap_x">Горизонтальный зазор</string>
+    <string name="name_spacer">Проставка</string>
+</resources>
